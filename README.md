@@ -3,7 +3,7 @@
 
 ## Data Analysis Results
 
-### Question 1: Do people with Cardiovascular Disease tend to have more other health issues than people without CVD?
+### Question 1: Do people with Cardiovascular Disease tend to have more additional health issues than people without CVD?
 
 
 ### Question 2:

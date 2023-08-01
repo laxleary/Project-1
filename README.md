@@ -62,53 +62,58 @@ Future studies on this specific topic might focus on potential causation by aski
 
 ## Project Proposal
 Project 1: CardioVascular Diseases Risk Prediction
+
 **Team Members**
 
-    Aubrey Leary
-    Spencer Bowman
-    Andrew Bourgeois
-    Sophia Porretta
+- Andrew Bourgeois
+- Spencer Bowman
+- Aubrey Leary
+- Sophia Porretta
 
 **Project Description**
 
-    This project will analyze a collection of data that was taken through a telephone survey about a person's health based on their response to a series of 304 questions. We will draw conclusions about the correlation between different lifestyle factors and the instances of CardioVascular Disease.
+This project will analyze a collection of data that was taken through a telephone survey about a person's health based on their response to a series of 304 questions. We will draw conclusions about the correlation between different lifestyle factors and the instances of CardioVascular Disease.
 
 **Research Questions to Answer**
 
-  [Q1:](#question-1) What eating and exercise habits relate to frequent instances CVD?
+[Q1:](#question-1) What eating and exercise habits relate to frequent instances CVD?
 
-  [Q2:](#question-2) How does biological sex relate to heart disease?
+[Q2:](#question-2) How does biological sex relate to heart disease?
 
-  [Q3:](#question-3-is-there-a-relationship-between-an-increase-in-age-and-a-prevalence-of-heart-disease)  Is CVD more prominent in Males or Females?
+[Q3:](#question-3-is-there-a-relationship-between-an-increase-in-age-and-a-prevalence-of-heart-disease)  Is CVD more prominent in Males or Females?
 
-  [Q4:](#question-4-do-people-with-cardiovascular-disease-tend-to-have-more-additional-health-issues-than-people-without-cvd) Is there a relation between CVD and other health concerns?
+[Q4:](#question-4-do-people-with-cardiovascular-disease-tend-to-have-more-additional-health-issues-than-people-without-cvd) Is there a relation between CVD and other health concerns?
 
 
 **Datasets to Be Used**
 
-    [Kaggle Data](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset)
+[Kaggle Data](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset)
 
-    [Cleaned Data File](CVD_cleaned.csv)
+[Cleaned Data File](Resources/Cleaned_CVD.csv)
 
 
 **Breakdown of Tasks**
 
-Find Dataset: Aubrey Leary
+- Find Dataset: Aubrey Leary
 
-Data Analysis: 
-- Q1: Sophia Porretta and Spencer Bowman
-- Q2: Sophia Porretta
-- Q3: Andrew Bourgeois
-- Q4: Aubrey Leary
 
-Final Writeup: Each person will summarize their own topic and then combine together
+- Data Analysis: 
+    - Q1: Sophia Porretta and Spencer Bowman
+    - Q2: Sophia Porretta
+    - Q3: Andrew Bourgeois
+    - Q4: Aubrey Leary
+<br/><br/>
 
-Slide Deck: Each person will contribute the slides relevant to their topic to the Google Slides
+- Final Writeup: Each person will summarize their own topic and then combine together
+
+
+- Slide Deck: Each person will contribute the slides relevant to their topic to the Google Slides
 
 
 
 
 ## Collaborators and Sources
+
 **RESOURCES**
 * Web App Survey for Dataset: https://cvd-risk-prediction.streamlit.app/page_2
 * Kaggle Dataset used for Data Analysis: https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset 

@@ -1,10 +1,13 @@
 # Project 1
-UNC Project 1
 
-Question: Is there a relationship between an increase in age and a prevalence of heart disease?
+## Project Proposal
 
-Final Analysis:
+## Data Analysis Results
 
+### Question 1: Do people with Cardiovascular Disease tend to have more additional health issues than people without CVD?
+
+
+### Question 2: Is there a relationship between an increase in age and a prevalence of heart disease?
 After completing the data analysis it is clear there is a strong, positive correlation between the survey respondent's age and the prevalence of heart disease. The data analysis supports the hypothesis, "As a respondent's age increases, there is a higher likelihood they will positive for heart disease." (r-square = 0.90101; p-value = 0)
 
 Of the approximately 309k respondents surveyed in the cleaned dataset, 24971 (or 8.1%) responded as being positvely identified as having heart disease.
@@ -21,12 +24,13 @@ After converting the categorical 'Age Category' data to ordinal data. The values
 To conclude, the analysis shows there is a strong, positive correlation between increased age and numebr of positive cases of heart disease. The dataset includes additional categories such as diet, exercise, and other comorbidities. Data analysis should be done to see whether any of these other lifestyle and other health issues may also correlate to the 'Age Category' and number of positive cases. It is possible a lifestyle or health issue associated with age may also be part of the pattern leading to the increased number of positive cases with age.
 
 
+### Question 3:
 
+### Question 4: 
 
-
-
-
+## Collaborators and Sources
 **RESOURCES**
 * Web App Survey for Dataset: https://cvd-risk-prediction.streamlit.app/page_2
 * Kaggle Dataset used for Data Analysis: https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset 
 * Turning categorical data into Ordinal Data: https://stackoverflow.com/questions/34007308/linear-regression-analysis-with-string-categorical-features-variables
+

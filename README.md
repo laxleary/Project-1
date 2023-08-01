@@ -3,7 +3,7 @@
 # Table of Contents:
 1. [Data Analysis Results](#data-analysis-results)
 2. [Project Proposal](#project-proposal)
-3. [Collarborators and Resources](#collaborators-and-sources)
+3. [Collaborators and Resources](#collaborators-and-sources)
 
 ## Data Analysis Results
 

@@ -10,8 +10,12 @@
 ### Question 1: What eating and exercise habits relate to frequent instances CVD?
 [Analysis File 1 (Exercise)](Data%20Analysis/data_analysis_Porretta/sophia_data_analysis.ipynb)
 
+[Analysis File 2 (Eating Habits)](Data%20Analysis/data_analysis_Bowman/data2.ipynb)
+
 **Exercise:** When looking at the population of people from the survey that exercise, there is a clear relationship drawn between exercise and heart disease. There are many ways to look at this data but when viewing it from the population of people that excercise, it is safe to say that the number of people that have heart disease is much smaller than the number of people that do not have heart disease. In this sample specifically, we conclude that 6.67% of those that exercise have heart disease. 
 Please Note: This does not draw any concusions about the relationship or potential impact that exercise has on developing heart disease. It is simply an observation on the comparison of two variables.
+
+**Eating:** This dataset studies the links between different food items and the risks of heart disease. from what we can find, there are statistically significant results, but the correlation between the two is very weak. It seems that people that have heart disease eat a little under two fewer servings of fruit per month, as well as 1.3 servings fewer of vegetables. But again these correlation coefficients are near zero, so take those individual relationships with a grain of salt. There are some other interesting data, though. For example, the median serving count of alcohol drank per month among those with heart disease is zero, while the median for fruit consumption among heart disease patients and those without is also the same. The only median increase in consumption is for fried potatoes. 
 
 ### Question 2: How does biological sex relate to heart disease?
 [Analysis File](Data%20Analysis/data_analysis_Porretta/sophia_data_analysis.ipynb)

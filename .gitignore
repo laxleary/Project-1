@@ -1,6 +1,9 @@
 #Your API-storing file
 config.py
 
+#DS Store from Mac
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

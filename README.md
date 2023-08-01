@@ -7,6 +7,8 @@
 
 ## Data Analysis Results
 
+[Our Presentation Slides Can Be Found Here](https://docs.google.com/presentation/d/1Zt4UjkYOpoyy6h1VcesQ5X5-cXRsllS0v4aGlSOe0Ug/edit#slide=id.g25dd646f00b_5_0)
+
 ### Question 1: What eating and exercise habits relate to frequent instances CVD?
 [Analysis File 1 (Exercise)](Data%20Analysis/data_analysis_Porretta/sophia_data_analysis.ipynb)
 
